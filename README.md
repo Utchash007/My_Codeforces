@@ -1,2 +1,2 @@
 # my_resume
-Portfolio_resume
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Shariar67)
